@@ -736,16 +736,22 @@
     padding-bottom: 494px;
   }
   .home-hero2 {
-    height: 318px;
+    height: 330px;
     margin-top: 0px;
     padding-bottom: 0px;
   }
   .home-heading2 {
-    height: 106px;
+    height: 251px;
     margin-top: 0px;
   }
   .home-header3 {
     margin-top: 1px;
+  }
+  .home-caption1 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .home-buttons2 {
+    margin-bottom: 5px;
   }
   .home-footer {
     height: 457px;
