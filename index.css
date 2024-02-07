@@ -20,7 +20,7 @@
   justify-content: space-between;
 }
 .home-logo {
-  color: rgb(13, 249, 201);
+  color: #ba8dff;
   font-size: 32px;
   font-style: normal;
   font-family: Montserrat;
@@ -63,7 +63,7 @@
   text-decoration: none;
 }
 .home-view {
-  background-color: rgb(13, 249, 201);
+  background-color: #ba8dff;
 }
 .home-burger-menu {
   display: none;
@@ -194,7 +194,7 @@
   color: #ffffff;
 }
 .home-text06 {
-  color: #0df9c9;
+  color: #ba8dff;
 }
 .home-caption {
   color: rgb(255, 255, 255);
@@ -210,7 +210,7 @@
   flex-direction: row;
 }
 .home-view1 {
-  background-color: rgb(13, 249, 201);
+  background-color: #ba8dff;
 }
 .home-description {
   gap: 120px;
@@ -240,7 +240,7 @@
   color: #ffffff;
 }
 .home-text10 {
-  color: #0df9c9;
+  color: #ba8dff;
 }
 .home-container4 {
   gap: var(--dl-space-space-fourunits);
@@ -314,7 +314,7 @@
   text-transform: capitalize;
 }
 .home-text12 {
-  color: #0df9c9;
+  color: #ba8dff;
 }
 .home-buttons1 {
   gap: var(--dl-space-space-threeunits);
@@ -323,7 +323,7 @@
   align-items: center;
 }
 .home-image4 {
-  width: var(--dl-size-size-large);
+  width: 400px;
   object-fit: cover;
 }
 .home-image5 {
@@ -388,7 +388,7 @@
   text-transform: capitalize;
 }
 .home-text14 {
-  color: #0df9c9;
+  color:#ba8dff;
 }
 .home-caption1 {
   color: rgb(255, 255, 255);
@@ -405,11 +405,11 @@
 }
 .home-view2 {
   text-decoration: none;
-  background-color: rgb(13, 249, 201);
+  background-color: #ba8dff;
 }
 .home-view3 {
   text-decoration: none;
-  background-color: rgb(13, 249, 201);
+  background-color: #ba8dff;
 }
 .home-container7 {
   width: 100%;
@@ -450,7 +450,7 @@
   flex-direction: column;
 }
 .home-header4 {
-  color: rgb(13, 249, 201);
+  color: #ba8dff;
   height: 133px;
   font-size: 90px;
   max-width: 900px;
@@ -482,7 +482,7 @@
     display: flex;
     padding: var(--dl-space-space-unit);
     flex-direction: row;
-    background-color: rgb(13, 249, 201);
+    background-color: #ba8dff;
   }
   .home-logo1 {
     color: #000000;
@@ -497,7 +497,7 @@
     padding-right: var(--dl-space-space-twounits);
   }
   .home-button {
-    background-color: rgb(13, 249, 201);
+    background-color: #ba8dff;
   }
   .home-hero {
     padding-top: var(--dl-space-space-threeunits);
@@ -640,14 +640,14 @@
     padding: var(--dl-space-space-unit);
   }
   .home-logo {
-    color: rgb(13, 249, 201);
+    color: #ba8dff;
     font-size: 32px;
     font-style: normal;
     font-family: Montserrat;
     font-weight: 800;
   }
   .home-button {
-    background-color: rgb(13, 249, 201);
+    background-color: #ba8dff;
   }
   .home-mobile-menu {
     padding: 16px;
@@ -663,7 +663,7 @@
     color: #ffffff;
   }
   .home-text06 {
-    color: #0df9c9;
+    color: #ba8dff;
   }
   .home-caption {
     color: rgb(255, 255, 255);
@@ -690,7 +690,7 @@
     color: #ffffff;
   }
   .home-text10 {
-    color: #0df9c9;
+    color: #ba8dff;
   }
   .home-container4 {
     height: 237px;
